@@ -1,6 +1,6 @@
 ## Oiii eu sou o Neto, um programador iniciante e faço lives tbm :)
 
-Opa fi, seguinte, eu sou um mlk que acordo pa vida e to fazendo oq pode para se tornar um dos melhores programadores que pode ter
+Seguinte fi, eu sou um mlk que acordo pa vida e to fazendo oq pode para se tornar um dos melhores programadores que pode ter
 Se quiser mais de mim, toma ai:
 
 <div style="display: inline_block"><br>
