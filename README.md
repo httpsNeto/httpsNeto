@@ -1,5 +1,8 @@
 ## Oiii eu sou o Neto, um programador iniciante e faço lives tbm :)
 
+Opa fi, seguinte, eu sou um mlk que acordo pa vida e to fazendo oq pode para se tornar um dos melhores programadores que pode ter
+Se quiser mais de mim, toma ai:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -13,5 +16,6 @@
   <a href="https://instagram.com/eiiineto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/netinhun" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/invite/5UFmqCvYPK" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://twitter.com/netinhuun" target="_blank"><img src="" target="_blank"></a>
   
 </div>
