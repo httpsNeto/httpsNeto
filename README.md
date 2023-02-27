@@ -1,4 +1,4 @@
-## Oiii eu sou o Neto, um programador iniciante e faço lives tbm :)
+## Oiii eu sou o Neto
 
 Seguinte fi, eu sou um mlk que acordo pa vida e to fazendo oq pode para se tornar um dos melhores programadores que pode ter
 
