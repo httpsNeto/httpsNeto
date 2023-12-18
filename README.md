@@ -2,8 +2,6 @@
 
 Seguinte fi, eu sou um mlk que acordo pa vida e to fazendo oq pode para se tornar um dos melhores programadores que pode ter
 
-Se quiser mais de mim, toma ai: https://netooo.carrd.co/
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
