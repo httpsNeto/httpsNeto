@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.redd.it/e3crcw0hseq51.jpg">
+<img src="https://github.com/httpsNeto/httpsNeto/assets/107814422/0c070df5-c5e0-4f27-bdb2-5bf15cc12ab9">
 </p>
 <h1 align="center">💖 Luan Caliel 💖</h1>
 
@@ -32,9 +32,9 @@
 
 ## ```$ ssh root@future.interests ```
 
-- <img height="20" width="20" src="https://github.com/httpsNeto/httpsNeto/assets/107814422/6389f9fc-19c6-41ed-aa7b-7587be77599f"/> I want to use React and TypeScript.
-- 🔐 I want to be an experienced and above average programmer.
-- 💵 Studying always and without excuses
+- 🗿 I want to use React and TypeScript.
+- ⚡ I want to be an experienced and above average programmer.
+- 🔥 Studying always and without excuses
 
 ## ```$ curl http://contact.me ```
 
