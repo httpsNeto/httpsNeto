@@ -14,7 +14,9 @@
 ## ```const personalInformation = {```
 
 people: '🎀 People know me as Netinhun. I'm 18 years old.'
+
 country: '🇧🇷 I live in the south of Brazil. I love drinking coke.'
+
 likes: '🛶 I love one piece.'
 
 ## ```}```
