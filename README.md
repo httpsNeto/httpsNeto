@@ -30,8 +30,11 @@ opinion = '❗ I love the backend more than the front, CSS = 🗑️'
 ## ```const mySkills = {```
 
 focus: '🗂️ I'm very focused when it comes to programming, and I love my 30 minutes of rest.'
+
 joke: '👑 The king of making trouble and finding LOL.'
+
 time: '⌛ I've been programming in JavaScript, TypeScript and React for a short time, but my dedication grows every day.'
+
 futureProjects: '📄 I have other knowledge such as Git, Tailwind CSS, and I intend to implement this in my projects in the future.'
 
 ## ```}```
@@ -39,7 +42,9 @@ futureProjects: '📄 I have other knowledge such as Git, Tailwind CSS, and I in
 ## ```const visionsForTheFuture = {```
 
 future = '🗿 I want to use React and TypeScript.'
+
 future1 = '⚡ I want to be an experienced and above average programmer.'
+
 future2 = '🔥 Studying always and without excuses.'
 
 ## ```}```
