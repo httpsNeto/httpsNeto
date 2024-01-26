@@ -1,10 +1,10 @@
 <p align="center">
 <img src="https://github.com/httpsNeto/httpsNeto/assets/107814422/1aee554e-fd8a-453c-97d2-bd59aee72e62">
 </p>
-<h1 align="center">💖 Luan Caliel 💖</h1>
+<h1 align="center">🪐 Endrio Neto 🪐</h1>
 
   <p align="center">
-    🧉 A brazilian young who loves to code and drinking chimarrão 🧉
+    🌐 A young man who always liked programming/internet 🌐
     <!---I know that `br` is not the best way of do it, but i just think on that-->
     <br />
     <br />
@@ -13,22 +13,20 @@
   
 ## ```$ whoami ```
 
-- 🏳️‍🌈 Users may know me as Luxanna Crownguard. I am 19 years old. 
-- 🇧🇷 I live in the south of Brazil. I love to drink our native drink [chimarrão](https://pt.wikipedia.org/wiki/Chimarr%C3%A3o).
-- ❄️ I love cold, like yooo it is so good to code wrapped in a duvet.
-- 🔮 I am a Mono Veigar, even have a [tattoo of him](https://i.imgur.com/dz6HMid.png) 
+- 🎀 People know me as Netinhun. I'm 18 years old.
+- 🇧🇷 I live in the south of Brazil. I love drinking coke.
+- 🛶 I love one piece.
 
 ## ```$ cd ~/repos```
 
-- 👑 My main project is [MenheraBot](https://github.com/MenheraBot).
-- 🥰 I love backend, so most of my [projects](https://github.com/ySnoopyDogy?tab=repositories) are backend, but not only.
+- ❗ I love the backend more than the front, CSS = 🗑️
 
 ## ```$ cat skills.txt```
 
-- 📡 I manage a VPS with Ubuntu Server, also use SSH, Nginx, Docker and Cloudflare with it.
-- ✨ I've been using TypeScript for the last 2 years, always trying to do it with the best practices.
-- 📞 My mom says that I am very communicative. 😆
-- 🗃 I have experience using MongoDB, PostgreSQL, Redis, and more! Come check my [main project](https://github.com/MenheraBot) for more
+- 🗂️ I'm very focused when it comes to programming, and I love my 30 minutes of rest.
+- 👑 The king of making trouble and finding LOL.
+- ⌛ I've been programming in JavaScript, TypeScript and React for a short time, but my dedication grows every day.
+- 📄 I have other knowledge such as Git, Tailwind CSS, and I intend to implement this in my projects in the future.
 
 ## ```$ ssh root@future.interests ```
 
