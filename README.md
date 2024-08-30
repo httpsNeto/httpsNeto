@@ -13,7 +13,7 @@
   
 ## ```const personalInformation = {```
 
-people: 'People know me as Netinhun. I'm 18 years old.'
+people: 'People know me as Neto. I'm 18 years old.'
 
 country: 'I live in the south of Brazil. I love drinking coke.'
 
